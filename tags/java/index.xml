@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on jheo.io</title>
+    <link>https://jheo.io/tags/java/</link>
+    <description>Recent content in Java on jheo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Jul 2021 00:04:36 +0900</lastBuildDate><atom:link href="https://jheo.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>엔터프라이즈 안드로이드 애플리케이션 개발하기</title>
+      <link>https://jheo.io/blog/enterprise-android-dev/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/enterprise-android-dev/</guid>
+      <description>스레드 걱정 없는 파일 저장소 만들기 안드로이드에서 기기의 저장소에 파일을 저장하는 방법은 일반적인 자바의 파일 저장과 완전히 동일합니다. 예를 들어서 &amp;lsquo;Hello, World!&amp;lsquo;라는 문자열을 파일로 저장하기 위해서는 다음과 같은 일반적인 코드를 사용하면 됩니다.
+public void saveText(String text) { try { File file = new File(getFilesDir(), &amp;#34;test.txt&amp;#34;); FileWriter fw = new FileWriter(file); fw.write(text); fw.close(); } catch (IOException ie) { ie.printStackTrace(); } } 안드로이드 기기에서 앱이 사용하는 내부저장소(Internal Storage)의 루트 디렉토리를 가져오는 API인 getFilesDir() 메소드를 사용한 것 외에는 지극히 평범한 자바의 File I/O 코드입니다.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataStructure on jheo.io</title>
+    <link>https://jheo.io/tags/datastructure/</link>
+    <description>Recent content in DataStructure on jheo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Jul 2021 00:04:36 +0900</lastBuildDate><atom:link href="https://jheo.io/tags/datastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>마림바의 스마트 가이드는 어떻게 만들었을까?</title>
+      <link>https://jheo.io/blog/how-to-create-smart-guide/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/how-to-create-smart-guide/</guid>
+      <description>스마트 가이드란? 스마트 가이드는 객체들을 움직일 때 다른 객체와의 정렬이나 간격을 고려해서 가이드라인을 표시해주거나 고정해주는 기능을 말합니다. 이 기능을 지칭하는 보편적인 용어가 없어서 저희는 스마트 가이드 및 스냅 기능으로 불렀는데, 다른 서비스나 애플리케이션에서는 안내선, 정렬선, 가이드라인, 마그넷, 스냅 등등 다양한 이름으로 부르고 있습니다. 이 기능이 등장한 이후로 무언가 화면에 그리고 배치하는 툴들은 이 기능이 없으면 허전하고 쓰기 어렵다는 인상을 주기 쉽기 때문에 온라인 화이트보드를 만드는 저희에게도 이 스마트 가이드 기능을 구현하는 것이 꽤나 중요한 과제가 되었습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

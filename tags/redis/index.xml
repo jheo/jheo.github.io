@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redis on jheo.io</title>
+    <link>https://jheo.io/tags/redis/</link>
+    <description>Recent content in Redis on jheo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Jul 2021 00:04:36 +0900</lastBuildDate><atom:link href="https://jheo.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>레디스(Redis)의 50가지 그림자</title>
+      <link>https://jheo.io/blog/fifty-shades-of-redis/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/fifty-shades-of-redis/</guid>
+      <description>터미널에 비친 로그에 좌절해서 얼굴을 찌푸렸다. 이 몹쓸 캐시는 얌전히 데이터를 가지고 있을 생각을 하지 않았다. 원래 캐시는 데이터를 유지할 의무가 없었지만, 몹쓸 개발자였던 나는 일관성 없이 사라지는 데이터들이 주는 시련에 짜증이 날 수밖에 없었다. 문득 어느 주말, 회의실에 모여서 보고 자료를 리뷰할 때의 기억이 떠올랐다. 기술적인 용어가 가득한 문서를 리뷰하다가 갑자기 상석에 앉아있던 임원 한 분이 &amp;lsquo;그런데 너네 캐시와 인메모리 데이터 그리드의 차이는 알고 쓴 거야?&amp;lsquo;라고 물어봤고, 속으로 아니 여기 앉아있는 사람들의 아키텍트 경력만 합쳐도 200년은 될 텐데 누가 그걸 몰라?</description>
+    </item>
+    
+    <item>
+      <title>레디스를 활용한 스케일아웃 레시피</title>
+      <link>https://jheo.io/blog/scale-out-with-redis/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/scale-out-with-redis/</guid>
+      <description>제가 예전에 수행했던 어떤 프로젝트는 웨어러블 장비를 통해 수집된 심전도 데이터를 안드로이드 기기로 전송하여 24시간에서 72시간 정도 취합한 뒤 서버로 업로드 하면 별도의 딥러닝 분석 모듈을 통해서 사용자의 심장 건강에 문제가 있는지 체크해주는 애플리케이션들을 만드는 프로젝트 였습니다. 심전도, 웨어러블, 딥러닝 등 뭔가 최신기술의 집약체를 나타내는 듯한 단어들이 많이 나온 것에 비해서 전체적인 아키텍처는 단순한 편이었습니다. 웨어러블 장비와 안드로이드 장비간의 연결은 블루투스, 안드로이드 장비는 수집한 데이터를 Rest API와 Multipart Request를 이용하여 서버에 업로드 하고, 서버는 이 데이터를 일부 정제하여 분석 서버에 넘기고, 분석 서버는 쉘 프로그램을 수행하여 분석을 수행하고 그 결과를 다시 DB에 집어넣습니다.</description>
+    </item>
+    
+    <item>
+      <title>아주 간단한 CRUD 애플리케이션 만들기</title>
+      <link>https://jheo.io/blog/develop-basic-crud-app/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/develop-basic-crud-app/</guid>
+      <description>서론 지난 여름, 저는 부서로부터 기묘한 업무지시를 받았습니다. 간단한 CRUD 서버를 하나 만들라는 것입니다. 익히 아시는 것 처럼 CRUD는 Create, Read, Update, Delete의 약자로 뭔가를 저장하고 읽고 수정하고 지우는 작업을 의미합니다. 저희가 일을 하면서 만드는 정보시스템의 가장 기본이 되는 동작이기 때문에 보통 CRUD = 가장 기초적이고 쉬운 동작 이라는 의미로 쓰일 때가 많습니다. &amp;ldquo;일단 인턴들 CRUD 하나씩 개발해보게 하시죠&amp;rdquo; &amp;ldquo;그 기능이요? 기껏해야 CRUD 정도 난이도 입니다.&amp;rdquo; &amp;ldquo;일단 CRUD 하나 짜보면서 견적을 내보시죠&amp;rdquo; 이런 식으로요.</description>
+    </item>
+    
+  </channel>
+</rss>

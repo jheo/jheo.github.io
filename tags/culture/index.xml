@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on jheo.io</title>
+    <link>https://jheo.io/tags/culture/</link>
+    <description>Recent content in Culture on jheo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Jul 2021 00:04:36 +0900</lastBuildDate><atom:link href="https://jheo.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>팀으로 일하는 것과 팀을 위해 일하는 것</title>
+      <link>https://jheo.io/blog/work-as-a-team/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/work-as-a-team/</guid>
+      <description>서론 제가 미국에 파견을 온 지 얼마 지나지 않아서의 일입니다. 이쪽 사람들하고 이야기하다가 제가 옛날에는 일주일에 100시간씩 일하던 시절이 있었음을 고백한 적이 있었는데, 여기 사람들은 그 사실에 적지 않은 충격을 받았던 것 같았습니다. 사실 미국 개발자들은 워라밸이 황금 밸런스라던지, 신입사원도 억대 연봉을 받는다던지, 자율성을 충분히 보장받고 커리어 패스도 완벽하게 만들어나가고 등등의 모든 선진적인 문화를 다 가지고 있다는 환상이 있을 수도 있지만, 그러기에는 너티독의 끔찍한 크런치 문화에 대한 비판이라든지 아마존의 살인적인 업무 강도라든지 자기 몫만큼 일하면 해고당하는 넷플릭스에 대한 소문 등을 너무 많이 들었던 저는 이쪽 사람들이 충격을 받았다는 사실에 충격을 받았습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

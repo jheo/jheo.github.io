@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VueJS on jheo.io</title>
+    <link>https://jheo.io/tags/vuejs/</link>
+    <description>Recent content in VueJS on jheo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Jul 2021 00:04:36 +0900</lastBuildDate><atom:link href="https://jheo.io/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>처음보는 언어로 멀티 리전 기능 구현하기</title>
+      <link>https://jheo.io/blog/implement-multi-region-with-strange-language/</link>
+      <pubDate>Tue, 27 Jul 2021 00:04:36 +0900</pubDate>
+      
+      <guid>https://jheo.io/blog/implement-multi-region-with-strange-language/</guid>
+      <description>서론 지난 9월 미국 시애틀에 도착해서 약간의 적응과정을 거친 후 제가 받은 첫 번째 업무는 이쪽 팀에서 만들고 있는 IMS라는 시스템에 멀티 리전(Multi region) 기능을 추가하라는 것이었습니다. 그 전의 적응 기간 동안 지라, 슬랙, 줌, 깃헙을 활용하는 일련의 프로세스에 익숙해질 기회가 있었는데, 그 적용 수준이나 적극성의 차이는 있을지 몰라도 한국에서도 이미 오랫동안 경험했던 업무 환경이었기에 큰 어려움을 느끼지 않았었습니다. 하지만 새로운 기능을 개발해서 기존 시스템에 추가하라는 구체적이고 실질적인 업무를 받고 나서, 막상 코드를 작성하려고 익숙한 에디터를 켰을 때는 친숙하고 분명한 느낌 보다는 뭔가 생소하고 막막한 느낌이 크게 들었습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
